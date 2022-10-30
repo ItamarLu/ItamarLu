@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ItamarLu
 - 👀 I’m interested in programing.
-- 🌱 I’m currently learning HTML, CSS, JavaScrip and Python.
+- 🌱 I’m currently learning HTML, CSS, JavaScript and Python.
 - 💞️ I’m looking to collaborate in any project that i can help.
 - 📫 How to reach me: Itamarlucio19@gmail.com
 
