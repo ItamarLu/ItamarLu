@@ -10,7 +10,7 @@
   <img align="center" alt="Javascript icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Typescript icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-  <img align="center" alt="NextJs icon" height="40" width="40" src="https://img.icons8.com/nolan/64/nextjs.png">
+  <img align="center" alt="NextJs icon" height="30" width="30" src="https://svgshare.com/i/144C.svg">
   <img align="center" alt="Tailwindcss icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
 </div>
 
